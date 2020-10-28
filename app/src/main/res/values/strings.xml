@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="android_apple_sauce">Android Apple Sauce</string>
+    <string name="product_details">Product Details</string>
+    <string name="see_if_it_s_available">See if it`s available</string>
+</resources>
